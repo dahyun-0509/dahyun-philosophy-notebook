@@ -1,17 +1,12 @@
-# Quartz v4
+# 다현의 철학 노트
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> 기술과 철학이 만나는 지점을 기록하는 공간
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+니체, 비트겐슈타인, 도나 해러웨이, 장자를 경유하며
+AI와 인간, 이해와 의식에 대해 생각한 것들을 정리합니다.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+🔗 **블로그 바로가기:** [https://dahyun-0509.github.io/dahyun-philosophy-notebook/](https://dahyun-0509.github.io/dahyun-philosophy-notebook/)
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+---
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Built with [Quartz v4](https://quartz.jzhao.xyz/)
